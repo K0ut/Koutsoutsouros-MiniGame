@@ -1,5 +1,7 @@
 # Koutsoutsouros-MiniGame
+
 Mine Destroyer
+
 You are a boat that is destroying mines that are in your territory of the sea and must keep  destroying them until there all gone.
 How to play- move around with the arrow keys, shoot bullets with the space bar.
 Dev Log- I made it so if the player destroys all six mines, six more mines will spawn in random locations on the map.
